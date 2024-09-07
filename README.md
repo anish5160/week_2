@@ -26,7 +26,8 @@
 7. Push the feature-x Branch to the Remote Repository, Making It Available for Others
    git push origin feature-x      # Push the feature-x branch to the remote repository
 I have done all this steps practically as you can see the branches section in the repository.
-Also I will attach some screenshots.
+
+Also I will attach a screenshot of successfully executing SSH connection.
 
 
 
